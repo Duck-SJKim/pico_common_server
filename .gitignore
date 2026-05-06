@@ -6,6 +6,8 @@ __pycache__/
 
 build/
 dist/
+!dist/
+!dist/PicoCommonServer.exe
 *.spec.tmp
 
 pico_common_server_config.json
